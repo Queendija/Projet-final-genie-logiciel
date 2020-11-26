@@ -110,7 +110,7 @@ public class CalculatriceTest {
 	
 	
 	
-	@Test
+	/*@Test
 	public void testMaxElement() {
 		
         int tab[] = {1,3,4};
@@ -124,6 +124,6 @@ public class CalculatriceTest {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
+	}*/
 
 }
